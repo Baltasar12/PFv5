@@ -2,12 +2,7 @@
 
 CUBO es una tienda online desarrollada en ReactJs y creada como proyecto final del curso de CoderHouse.
 
-## HERRAMIENTAS
-- `React Js`
-- `React Router DOM` 
-- `CSS 3` 
-- `Sweet Alert 2` 
-- `Firebase` 
+
 
 
 
@@ -18,6 +13,13 @@ Si el usuario quisiera dejar el contador el 0 la siguiente alerta aparece inmedi
 <img src="./public/assets/readme/ERRORSTOCK.png" width="500"/>
 
 
+
+## HERRAMIENTAS
+- `React Js`
+- `React Router DOM` 
+- `CSS 3` 
+- `Sweet Alert 2` 
+- `Firebase` 
 
 ## CARACTERÍSTICAS GENERALES
 
