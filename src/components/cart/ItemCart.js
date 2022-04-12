@@ -7,10 +7,10 @@ const ItemCart = ({ item, deleteOneProduct, deleteCart }) => {
         <img src={item.img} alt="description" className="productImg" />
         <div className="infoContainer ">
           <h4 className="cardTitle">{item.name}</h4>
-          <h5 className="cardInfo">Precio por unidad: ${item.price}</h5>
+          <h5 className="cardInfo">Precio por unidad: $ {item.price}</h5>
           <h5 className="cardInfo">Cantidad: {item.quantity}</h5>
           <h5 className="cardInfo">
-            Precio total: ${item.price * item.quantity}
+            Precio total: $ {item.price * item.quantity}
           </h5>
           <div id="cartButtonContainer">
             <button

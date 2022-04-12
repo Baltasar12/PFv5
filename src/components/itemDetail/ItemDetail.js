@@ -22,7 +22,7 @@ const ItemDetail = ({ description }) => {
           <div className="infoContainer ">
             <h4 className="cardTitle">{description.name}</h4>
             <h5 className="cardInfo">{description.description}</h5>
-            <h5 className="cardPrice">Price: ${description.price}</h5>
+            <h5 className="cardPrice">Price:$ {description.price}</h5>
             <ItemCount stock={description.stock} initial={1} onAdd={onAdd} />
           </div>
         </div>

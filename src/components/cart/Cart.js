@@ -21,7 +21,7 @@ const Cart = () => {
 
         {cart.length > 0 ? (
           <div id="cartInfoFooter">
-            <p id="totalPrice">Total: ${totalPrice} </p>
+            <p id="totalPrice">Total: $ {totalPrice} </p>
             <div>
               <NavLink to={"/Payment"}>
                 <button className="bntCart">Comprar</button>
