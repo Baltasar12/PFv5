@@ -46,7 +46,7 @@ import {
     return (
       <>
         <div id="paymentContainer">
-          <h3 className="titleForContainers">Casi list!!</h3>
+          <h3 className="titleForContainers">Casi listo!!</h3>
           <p className="paymentSubTitle">Por favor, completa la info</p>
           <form id="paymentForm">
             <input
