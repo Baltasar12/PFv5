@@ -14,6 +14,18 @@ Si el usuario quisiera dejar el contador el 0 la siguiente alerta aparece inmedi
 
 
 
+## FUNCIONALIDADES
+
+```sh
+El carrito cuenta con botones para modificar la compra:
+
+Con "Delete 1" se elimina 1 unidad del producto tanto en el item cart como en el widget
+y el precio total, mientras que con "Delete All" se eliminan todas las unidades de dicho
+producto e impacta en todos los indicadores antes mencionados.
+```
+
+
+
 ## HERRAMIENTAS
 - `React Js`
 - `React Router DOM` 
